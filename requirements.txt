@@ -1,0 +1,2 @@
+langchain==0.0.268
+langsmith==0.0.75
